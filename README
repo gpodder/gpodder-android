@@ -1,0 +1,21 @@
+gPodder 4 for Android
+=====================
+
+This repository contains the packaging scripts and metadata needed to build a
+packaged version of gPodder 4 for Android >= 4.0 (API Level 14).
+
+
+Requirements:
+
+   - Android SDK
+   - Android NDK (tested with r10c)
+   - Qt 5.3.2 SDK for Android
+   - PyOtherSide 1.4.0 for Android installed into QML plugins folder
+     - Static build of Python 3 for Android
+     - Embedded Python Standard Library
+
+Included as Git submodules:
+
+   - gPodder 4 Core
+   - gPodder QML UI Reference Implementation
+   - podcastparser
