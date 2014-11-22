@@ -33,6 +33,7 @@
 <file alias="touch/PTextField.qml">gpodder-ui-qml/touch/PTextField.qml</file>
 <file alias="touch/PToolbar.qml">gpodder-ui-qml/touch/PToolbar.qml</file>
 <file alias="touch/PToolbarButton.qml">gpodder-ui-qml/touch/PToolbarButton.qml</file>
+<file alias="touch/PToolbarLabel.qml">gpodder-ui-qml/touch/PToolbarLabel.qml</file>
 <file alias="touch/PlayerPage.qml">gpodder-ui-qml/touch/PlayerPage.qml</file>
 <file alias="touch/PodcastDetail.qml">gpodder-ui-qml/touch/PodcastDetail.qml</file>
 <file alias="touch/PodcastItem.qml">gpodder-ui-qml/touch/PodcastItem.qml</file>
@@ -44,6 +45,7 @@
 <file alias="touch/Stacking.qml">gpodder-ui-qml/touch/Stacking.qml</file>
 <file alias="touch/TextInputDialog.qml">gpodder-ui-qml/touch/TextInputDialog.qml</file>
 <file alias="touch/gpodder.qml">gpodder-ui-qml/touch/gpodder.qml</file>
+<file alias="touch/fonts/source-sans-pro.extralight.ttf">gpodder-ui-qml/touch/fonts/source-sans-pro.extralight.ttf</file>
 <file alias="touch/icons/AUTHORS">gpodder-ui-qml/touch/icons/AUTHORS</file>
 <file alias="touch/icons/LICENSE">gpodder-ui-qml/touch/icons/LICENSE</file>
 <file alias="touch/icons/README">gpodder-ui-qml/touch/icons/README</file>
@@ -57,12 +59,13 @@
 <file alias="touch/images/play.png">gpodder-ui-qml/touch/images/play.png</file>
 <file alias="touch/images/search.png">gpodder-ui-qml/touch/images/search.png</file>
 <file alias="touch/images/subscriptions.png">gpodder-ui-qml/touch/images/subscriptions.png</file>
+<file alias="touch/images/toolbarshadow-top.png">gpodder-ui-qml/touch/images/toolbarshadow-top.png</file>
 <file alias="touch/images/toolbarshadow.png">gpodder-ui-qml/touch/images/toolbarshadow.png</file>
-<file alias="touch/fonts/source-sans-pro.extralight.ttf">gpodder-ui-qml/touch/fonts/source-sans-pro.extralight.ttf</file>
 <file alias="touch/common/GPodderCore.qml">gpodder-ui-qml/common/GPodderCore.qml</file>
 <file alias="touch/common/GPodderDirectorySearchModel.qml">gpodder-ui-qml/common/GPodderDirectorySearchModel.qml</file>
 <file alias="touch/common/GPodderEpisodeListModel.qml">gpodder-ui-qml/common/GPodderEpisodeListModel.qml</file>
 <file alias="touch/common/GPodderEpisodeListModelConnections.qml">gpodder-ui-qml/common/GPodderEpisodeListModelConnections.qml</file>
+<file alias="touch/common/GPodderPlatform.qml">gpodder-ui-qml/common/GPodderPlatform.qml</file>
 <file alias="touch/common/GPodderPlayback.qml">gpodder-ui-qml/common/GPodderPlayback.qml</file>
 <file alias="touch/common/GPodderPodcastListModel.qml">gpodder-ui-qml/common/GPodderPodcastListModel.qml</file>
 <file alias="touch/common/GPodderPodcastListModelConnections.qml">gpodder-ui-qml/common/GPodderPodcastListModelConnections.qml</file>

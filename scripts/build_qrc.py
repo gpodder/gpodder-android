@@ -19,7 +19,7 @@ def mount_files(out, source, target):
         print(from_filename, '->', to_filename)
         return
 
-    for path, dirnames, filenames in os.walk(source):
+    for path, dirnames, filenames in sorted(os.walk(source)):
         path = path.replace('\\', '/')
         for filename in sorted(filenames):
             if filename in IGNORED_FILES:
