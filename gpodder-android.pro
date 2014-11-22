@@ -4,6 +4,12 @@ QT += qml quick multimedia
 
 SOURCES += main.cpp
 
+INCLUDEPATH += include src
+DEPENDPATH += include src
+
+HEADERS += src/gpodderandroid.h
+SOURCES += src/gpodderandroid.cpp
+
 # Automatically generated, containing gpodder source and QML files
 RESOURCES += gpodder.qrc
 
