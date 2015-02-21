@@ -19,3 +19,4 @@ Included as Git submodules:
    - gPodder 4 Core
    - gPodder QML UI Reference Implementation
    - podcastparser
+   - minidb

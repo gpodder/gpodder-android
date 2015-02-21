@@ -73,6 +73,7 @@
 <file alias="touch/common/util.js">gpodder-ui-qml/common/util.js</file>
 <file alias="main.py">gpodder-ui-qml/main.py</file>
 <file alias="podcastparser.py">podcastparser/podcastparser.py</file>
+<file alias="minidb.py">minidb/minidb.py</file>
 <file alias="gpodder/__init__.py">gpodder-core/src/gpodder/__init__.py</file>
 <file alias="gpodder/api.py">gpodder-core/src/gpodder/api.py</file>
 <file alias="gpodder/common.py">gpodder-core/src/gpodder/common.py</file>

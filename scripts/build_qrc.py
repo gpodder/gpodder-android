@@ -40,6 +40,7 @@ with open('gpodder.qrc', 'w') as out:
     mount_files(out, 'gpodder-ui-qml/common', '%s/common' % variant)
     mount_files(out, 'gpodder-ui-qml/main.py', 'main.py')
     mount_files(out, 'podcastparser/podcastparser.py', 'podcastparser.py')
+    mount_files(out, 'minidb/minidb.py', 'minidb.py')
     mount_files(out, 'gpodder-core/src/gpodder', 'gpodder')
 
     print('</qresource>', file=out)
