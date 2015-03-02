@@ -69,7 +69,9 @@
 <file alias="touch/common/GPodderPlayback.qml">gpodder-ui-qml/common/GPodderPlayback.qml</file>
 <file alias="touch/common/GPodderPodcastListModel.qml">gpodder-ui-qml/common/GPodderPodcastListModel.qml</file>
 <file alias="touch/common/GPodderPodcastListModelConnections.qml">gpodder-ui-qml/common/GPodderPodcastListModelConnections.qml</file>
+<file alias="touch/common/ModelWorkerScript.qml">gpodder-ui-qml/common/ModelWorkerScript.qml</file>
 <file alias="touch/common/constants.js">gpodder-ui-qml/common/constants.js</file>
+<file alias="touch/common/modelworker.js">gpodder-ui-qml/common/modelworker.js</file>
 <file alias="touch/common/util.js">gpodder-ui-qml/common/util.js</file>
 <file alias="main.py">gpodder-ui-qml/main.py</file>
 <file alias="podcastparser.py">podcastparser/podcastparser.py</file>
