@@ -38,6 +38,7 @@
 <file alias="touch/PodcastDetail.qml">gpodder-ui-qml/touch/PodcastDetail.qml</file>
 <file alias="touch/PodcastItem.qml">gpodder-ui-qml/touch/PodcastItem.qml</file>
 <file alias="touch/PodcastsPage.qml">gpodder-ui-qml/touch/PodcastsPage.qml</file>
+<file alias="touch/RectangleIndicator.qml">gpodder-ui-qml/touch/RectangleIndicator.qml</file>
 <file alias="touch/SectionHeader.qml">gpodder-ui-qml/touch/SectionHeader.qml</file>
 <file alias="touch/SelectionDialog.qml">gpodder-ui-qml/touch/SelectionDialog.qml</file>
 <file alias="touch/SlidePage.qml">gpodder-ui-qml/touch/SlidePage.qml</file>
@@ -61,6 +62,7 @@
 <file alias="touch/images/subscriptions.png">gpodder-ui-qml/touch/images/subscriptions.png</file>
 <file alias="touch/images/toolbarshadow-top.png">gpodder-ui-qml/touch/images/toolbarshadow-top.png</file>
 <file alias="touch/images/toolbarshadow.png">gpodder-ui-qml/touch/images/toolbarshadow.png</file>
+<file alias="touch/common/GPodderAutoFire.qml">gpodder-ui-qml/common/GPodderAutoFire.qml</file>
 <file alias="touch/common/GPodderCore.qml">gpodder-ui-qml/common/GPodderCore.qml</file>
 <file alias="touch/common/GPodderDirectorySearchModel.qml">gpodder-ui-qml/common/GPodderDirectorySearchModel.qml</file>
 <file alias="touch/common/GPodderEpisodeListModel.qml">gpodder-ui-qml/common/GPodderEpisodeListModel.qml</file>
