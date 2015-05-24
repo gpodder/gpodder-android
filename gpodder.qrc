@@ -41,6 +41,8 @@
 <file alias="touch/RectangleIndicator.qml">gpodder-ui-qml/touch/RectangleIndicator.qml</file>
 <file alias="touch/SectionHeader.qml">gpodder-ui-qml/touch/SectionHeader.qml</file>
 <file alias="touch/SelectionDialog.qml">gpodder-ui-qml/touch/SelectionDialog.qml</file>
+<file alias="touch/SettingsLabel.qml">gpodder-ui-qml/touch/SettingsLabel.qml</file>
+<file alias="touch/SettingsPage.qml">gpodder-ui-qml/touch/SettingsPage.qml</file>
 <file alias="touch/SlidePage.qml">gpodder-ui-qml/touch/SlidePage.qml</file>
 <file alias="touch/SlidePageHeader.qml">gpodder-ui-qml/touch/SlidePageHeader.qml</file>
 <file alias="touch/Stacking.qml">gpodder-ui-qml/touch/Stacking.qml</file>
