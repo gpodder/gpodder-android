@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<manifest package="org.gpodder.android" xmlns:android="http://schemas.android.com/apk/res/android" android:versionName="4.4.0" android:versionCode="4" android:installLocation="auto">
+<manifest package="org.gpodder.android" xmlns:android="http://schemas.android.com/apk/res/android" android:versionName="4.6.0" android:versionCode="5" android:installLocation="auto">
   <application android:hardwareAccelerated="true" android:name="org.qtproject.qt5.android.bindings.QtApplication" android:label="gPodder" android:icon="@drawable/icon">
         <activity android:configChanges="orientation|uiMode|screenLayout|screenSize|smallestScreenSize|locale|fontScale|keyboard|keyboardHidden|navigation" android:name="org.gpodder.android.GPodderActivity" android:label="gPodder" android:screenOrientation="unspecified" android:launchMode="singleTop">
             <intent-filter>
